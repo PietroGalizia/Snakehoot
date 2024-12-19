@@ -1,5 +1,5 @@
 *****
-# Snakhoot!
+# Snakehoot!
 *****
 A competitive multiplayer version inspired by Kahoot! Players select disciplines from various snake versions in the pietrogalizia.github repository and choose topics ("diets") to challenge themselves and others. Perfect for classrooms, Snakhoot! fosters learning through collaboration and competition, with features supporting formative assessments.
 
@@ -18,12 +18,12 @@ Use the following to cite this code:
 
 Description
 ========
-Snakhoot! is an online multiplayer adaptation of the classic Snake mechanics, designed to combine competition with education. Players select their "snake" and "diet" from various disciplines like chemistry, math, geometry, or physics, and compete to collect correct answers, solve problems, or master specific topics. With gameplay tailored to reinforce subject knowledge and enhance collaboration, Snakhoot! is perfect for classrooms, tournaments, and science enthusiasts looking for a dynamic and interactive challenge.
+Snakehoot! is an online multiplayer adaptation of the classic Snake mechanics, designed to combine competition with education. Players select their "snake" and "diet" from various disciplines like chemistry, math, geometry, or physics, and compete to collect correct answers, solve problems, or master specific topics. With gameplay tailored to reinforce subject knowledge and enhance collaboration, Snakhoot! is perfect for classrooms, tournaments, and science enthusiasts looking for a dynamic and interactive challenge.
 
 Copyright
 =========
 
-    Snakhoot!
+    Snakehoot!
     Copyright (C) 2024 Pietro Galizia
 
     This program is free software: you can redistribute it and/or modify
